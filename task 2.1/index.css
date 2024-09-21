@@ -1,0 +1,44 @@
+body {
+    margin: 0px;
+    line-height: 1.5; 
+
+header {
+    height: 90px;
+    padding-left: 10px;
+    padding-top: 20px;
+    background-color: #EAEAEA;
+}
+
+.container {
+    display: inline-block;
+}
+
+.left-column {
+    width: 200px;
+    padding: 3px 5px 5px 5px;
+    font-size: 19.1px;
+    background-color: #C8FC98;
+    float: left;
+    margin-right: 6px;
+}
+
+.fluid-column {
+    font-size: 22px;
+    min-width: auto;
+    max-width: auto;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    padding: 5px;
+}
+
+h2 {
+    margin: 0;
+	font-size: 35px;
+}
+
+a {
+    color: yellow;
+}
