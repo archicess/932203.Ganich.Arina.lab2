@@ -1,0 +1,57 @@
+body
+{
+    margin: 0px;
+	line-height: 1.5
+}
+
+header
+{
+    height: 80px;
+    padding-left:10px;
+    padding-top:20px;
+    background-color: #EAEAEA;
+}
+
+.container {
+    display: inline-block;
+}
+
+.left-column {
+width: 25%; 
+padding: 3px 5px 5px 5px;
+font-size:20px;
+background-color: #C8FC98; 
+float:left;
+margin-right:5px;
+}   
+
+.right-column {
+width: 200px; 
+padding: 3px 5px 5px 5px;
+font-size:19.3px;
+background-color: #FDE95E; 
+float:right;
+margin-right:5px;
+} 
+
+.fluid-column
+{
+    font-size:19px;   
+}
+
+footer
+{
+    background-color: black;
+    text-align: center;
+    padding:5px;
+}
+
+h2{
+    margin: 0;
+	font-size: 35px;
+}
+
+a
+{
+    color: yellow;
+}
