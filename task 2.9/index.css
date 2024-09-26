@@ -1,10 +1,27 @@
-.content{
-    background-color: blue;
-    color: white;
-    width:600px;
-    margin: 0 auto;
+body {
+
+    background-color: white;
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+
+   }
+div.text_t{
+  position:absolute;
+max-width: 600px;
+min-width: 600px;
+  visibility: visible;
+  background-color: blue;
+  color: #FFFFFF;
+  margin:auto;
+  left:0px;
+  right:0px;
+
 }
-.hamp{
-    float: right;
-    margin: 0 0 10px 15px;
+div.page_mouse
+{
+min-width: 300px;
+float: right;
+position:relative;
+border-left:20px dashed blue;
+border-bottom:20px dashed blue;
 }
